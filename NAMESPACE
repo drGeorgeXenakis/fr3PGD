@@ -1,0 +1,31 @@
+exportPattern("^[[:alpha:]]+")
+## ## importFrom("lubridate",
+## ##            "hour","year","yday","leap_year",
+## ##            "day","month","minute","second")
+## import("lubridate")
+## ## importFrom("ggplot2",
+## ##            "ggplot","geom_bar","coord_polar","scale_x_discrete",
+## ##            "scale_fill_manual","theme","ggtitle","ylim","aes",
+## ##            "waiver","element_blank","labs")
+## import("ggplot2")
+## importFrom("raster",
+##            "rasterFromXYZ","projectRaster","projection","crs")
+## importFrom("dismo",
+##            "gmap")
+## importFrom("grDevices",
+##            "dev.cur", "dev.new", "dev.off", "dev.set",
+##            "jpeg", "rainbow", "rgb","colorRampPalette")
+## importFrom("graphics",
+##            "abline", "axis", "filled.contour", "legend",
+##            "mtext", "par", "plot", "points", "polygon", "title")
+## importFrom("stats",
+##            "IQR", "aggregate", "median", "quantile",
+##            "reshape", "sd", "xtabs")
+## importFrom("utils",
+##            "read.table", "write.table")
+## importFrom("sp",
+##            "CRS")
+## importFrom("RColorBrewer",
+##            "brewer.pal")
+
+
