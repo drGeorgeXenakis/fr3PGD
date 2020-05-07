@@ -3,7 +3,7 @@ Type: Package
 Title: The Physiological Principles for Predicting Growth Model (3PG)
 Version: 2.0
 Date: 2019-09-03
-Author: Manuel Arias-Rodil
+Author: Manuel Arias-Rodil, Tom Locatelli, Georgios Xenakis
 Maintainer: Georgios Xenakis <georgios.xenakis@forestresearch.gov.uk>
 Depends: R (>= 3.5)
 Description: An implementation of the popular 3-PG model by Landsberg & Waring (1997). This version includes subroutine simulating broadleave leaf area index (on/off phenology)
